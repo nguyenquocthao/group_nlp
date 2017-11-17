@@ -5,4 +5,5 @@
 - The subsets are often stratified before the cross validationis performed
 - Final error estimates is average of error estimates for each time.
 - K-fold helps error estimates more accurate
+
 ![k-fold](images/k-fold.png)
